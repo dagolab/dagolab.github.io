@@ -2,6 +2,6 @@ Welcome to the <i>BIOINFORMATICS</i> laboratory of the Department of Agricultura
 We are interested in the analysis of sequence data and on the development of strategies, methods and tools for the management of "omics" data.
 Lab activity is addressed to the study of transcriptomes and to the determination of gene expression profiles in species of agricultural interest.
 A further research topic concerns the structural and functional genomics of species belonging to the <i>Solanaceae</i> family.
-We are also interested in the sequencing, assembly and annotation of organelle genomes (both plastomes and chondriomes) of different species.
+We are also interested in the sequencing, assembly and annotation of organelle genomes (both plastomes and chondriomes).
 With the spread of NGS-based genotyping techniques, we began to explore “gene space” and provide high-resolution profiling of nucleotide variation within germplasm collections, and to combine allelic and phenotypic data points via genome-wide association studies, thus facilitating the discovery of loci that are associated with key agronomic traits.
 In recent years, the spread of CRISPR, its subsequent use as a technological tool in concert with Cas nucleases, and its multiple application potentials have prompted us to start using CRISPR in our research.
